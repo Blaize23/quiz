@@ -1,0 +1,14 @@
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
