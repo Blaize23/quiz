@@ -12,3 +12,4 @@ C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\Consol
 C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
 C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\blaize.bokoka\OneDrive - Academedia\Documents\proggramering\quiz\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
